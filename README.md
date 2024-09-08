@@ -1,4 +1,4 @@
-# nombre-mysterieux-js
+# Discord Bot - Game
 French
 
 Jeu: Nombre Mystérieux pour bot discord en JavaScript!
